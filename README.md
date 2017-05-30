@@ -1,4 +1,4 @@
-This plugin was a result of a coding challenge with the following requirements:
+This plugin was the result of a coding challenge with the following requirements:
 
 - Build a WordPress-Plugin that adds some options to the database at its first
 activation.
